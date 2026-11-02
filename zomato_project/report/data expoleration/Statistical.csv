@@ -1,0 +1,7 @@
+min_votes,max_votes,avg_votes,min_rating,max_rating,avg_rating
+0,10934,156.91,1,4.9,2.89
+,,,,,
+,,,,,
+,,,,,
+,,Statistical Summary:,,,
+,,"? Calculate statistical measures (min, max, avg) for votes, rating, and currency columns.",,,

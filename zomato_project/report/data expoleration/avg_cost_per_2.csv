@@ -1,0 +1,13 @@
+Currency,restaurants,min_cost_for_two,max_cost_for_two,avg_cost_for_two
+"Indian Rupees(Rs.)",8652,0,8000,623.37
+Dollar($),482,0,500,31.51
+Pounds(?),80,10,230,47.81
+Rand(R),60,110,3210,419.73
+"Emirati Diram(AED)",60,40,500,166.42
+"Brazilian Real(R$)",60,30,400,134.67
+NewZealand($),40,20,200,69.75
+"Turkish Lira(TL)",34,30,400,84.85
+"Botswana Pula(P)",22,600,6000,1606.82
+"Indonesian Rupiah(IDR)",21,70000,800000,281190.48
+"Sri Lankan Rupee(LKR)",20,1000,4500,2375.00
+"Qatari Rial(QR)",20,50,550,223.75

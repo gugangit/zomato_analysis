@@ -1,0 +1,143 @@
+Country_Name,City,restaurants,rolling_count_in_country
+Australia,Armidale,1,1
+Australia,Balingup,1,2
+Australia,Beechworth,1,3
+Australia,"Dicky Beach",1,4
+Australia,"East Ballina",1,5
+Australia,Flaxton,1,6
+Australia,Forrest,1,7
+Australia,"Hepburn Springs",2,9
+Australia,Huskisson,1,10
+Australia,Inverloch,1,11
+Australia,"Lakes Entrance",1,12
+Australia,Lorn,1,13
+Australia,Macedon,1,14
+Australia,Mayfield,1,15
+Australia,"Middleton Beach",1,16
+Australia,Montville,1,17
+Australia,"Palm Cove",1,18
+Australia,Paynesville,1,19
+Australia,Penola,1,20
+Australia,"Phillip Island",1,21
+Australia,Tanunda,1,22
+Australia,"Trentham East",1,23
+Australia,"Victor Harbor",1,24
+Brazil,Brasilia,20,20
+Brazil,"Rio de Janeiro",20,40
+Brazil,"Sao Paulo",20,60
+Canada,Chatham-Kent,1,1
+Canada,Consort,1,2
+Canada,"Vineland Station",1,3
+Canada,Yorkton,1,4
+India,Agra,20,20
+India,Ahmedabad,21,41
+India,Allahabad,20,61
+India,Amritsar,21,82
+India,Aurangabad,20,102
+India,Bangalore,20,122
+India,Bhopal,20,142
+India,Bhubaneshwar,21,163
+India,Chandigarh,18,181
+India,Chennai,20,201
+India,Coimbatore,20,221
+India,Dehradun,20,241
+India,Faridabad,251,492
+India,Ghaziabad,25,517
+India,Goa,20,537
+India,Gurgaon,1118,1655
+India,Guwahati,21,1676
+India,Hyderabad,18,1694
+India,Indore,20,1714
+India,Jaipur,20,1734
+India,Kanpur,20,1754
+India,Kochi,20,1774
+India,Kolkata,20,1794
+India,Lucknow,21,1815
+India,Ludhiana,20,1835
+India,Mangalore,20,1855
+India,Mohali,1,1856
+India,Mumbai,20,1876
+India,Mysore,20,1896
+India,Nagpur,20,1916
+India,Nashik,20,1936
+India,"New Delhi",5473,7409
+India,Noida,1080,8489
+India,Panchkula,1,8490
+India,Patna,20,8510
+India,Puducherry,20,8530
+India,Pune,20,8550
+India,Ranchi,20,8570
+India,Secunderabad,2,8572
+India,Surat,20,8592
+India,Vadodara,20,8612
+India,Varanasi,20,8632
+India,Vizag,20,8652
+Indonesia,Bandung,1,1
+Indonesia,Bogor,2,3
+Indonesia,Jakarta,16,19
+Indonesia,Tangerang,2,21
+"New Zealand",Auckland,20,20
+"New Zealand","Wellington City",20,40
+Philippines,162,1,1
+Philippines,"Makati City",1,2
+Philippines,"Mandaluyong City",4,6
+Philippines,"Pasay City",3,9
+Philippines,"Pasig City",3,12
+Philippines,"Quezon City",1,13
+Philippines,"San Juan City",2,15
+Philippines,"Santa Rosa",2,17
+Philippines,"Tagaytay City",1,18
+Philippines,"Taguig City",4,22
+Qatar,Doha,20,20
+Singapore,Singapore,20,20
+"South Africa","Cape Town",20,20
+"South Africa","Inner City",2,22
+"South Africa",Johannesburg,6,28
+"South Africa",Pretoria,20,48
+"South Africa",Randburg,1,49
+"South Africa",Sandton,11,60
+"Sri Lanka",Colombo,20,20
+Turkey,Ankara,20,20
+Turkey,Istanbul,14,34
+"United Arab Emirates","Abu Dhabi",20,20
+"United Arab Emirates",Dubai,20,40
+"United Arab Emirates",Sharjah,20,60
+"United Kingdom",Birmingham,20,20
+"United Kingdom",Edinburgh,20,40
+"United Kingdom",London,20,60
+"United Kingdom",Manchester,20,80
+"United States",Albany,20,20
+"United States",Athens,20,40
+"United States",Augusta,20,60
+"United States",Boise,20,80
+"United States","Cedar Rapids/Iowa City",20,100
+"United States",Clatskanie,1,101
+"United States",Cochrane,1,102
+"United States",Columbus,20,122
+"United States",Dalton,20,142
+"United States",Davenport,20,162
+"United States","Des Moines",20,182
+"United States",Dubuque,20,202
+"United States",Fernley,1,203
+"United States",Gainesville,20,223
+"United States",Lakeview,1,224
+"United States",Lincoln,1,225
+"United States",Macon,20,245
+"United States","Mc Millan",1,246
+"United States",Miller,1,247
+"United States",Monroe,1,248
+"United States","Ojo Caliente",1,249
+"United States",Orlando,20,269
+"United States",Pensacola,20,289
+"United States",Pocatello,20,309
+"United States",Potrero,1,310
+"United States",Princeton,1,311
+"United States","Rest of Hawaii",20,331
+"United States",Savannah,20,351
+"United States","Sioux City",20,371
+"United States","Tampa Bay",20,391
+"United States",Valdosta,20,411
+"United States",Vernonia,1,412
+"United States",Waterloo,20,432
+"United States",Weirton,1,433
+"United States","Winchester Bay",1,434
